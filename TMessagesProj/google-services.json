@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745989629077",
+    "project_id": "karinagram-2d11b",
+    "storage_bucket": "karinagram-2d11b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745989629077:android:042bf8137a2deb19dd279c",
+        "android_client_info": {
+          "package_name": "com.karinainc.karina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzpMUK52Mh7MmX5xbDEGbgLwABAIUDXRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
